@@ -15,3 +15,17 @@ text-align: left;
 #start,#status{
     font-size: 20px;
 }
+#footer{
+    margin: 0px;
+    line-height: 2;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+}
+.modal-dialog{
+    width: 90%;
+}
+.Image_Instruct{
+    width: 45%;
+}
