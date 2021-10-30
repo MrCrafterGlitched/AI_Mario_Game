@@ -30,8 +30,9 @@ text-align: left;
     width: 45%;
 }
 #game_console{
-    background-image:url("game_console.png");
-    background-size: cover;
+    background:url("game_console.png");
+    background-size: contain;
     background-position: center;
     padding: 25px;
+    background-repeat: no-repeat;
 }
