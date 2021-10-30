@@ -29,3 +29,9 @@ text-align: left;
 .Image_Instruct{
     width: 45%;
 }
+#game_console{
+    background-image:url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
